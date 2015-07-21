@@ -10,7 +10,6 @@
 ## what are the restrictions?
 
 * pXdoppelganger will only work with PNG files.
-* pXdoppelganger will best work if you work with absolute file paths
 
 ## how do I use it?
 
