@@ -7,6 +7,11 @@
 * pXdoppelganger can tell you if those images are equal and what the percentual change is.
 * pXdoppelganger can also show you the "difference" image between the two images.
 
+## what are the restrictions?
+
+* pXdoppelganger will only work with PNG files.
+* pXdoppelganger will best work if you work with absolute file paths
+
 ## how do I use it?
 
 install the gem:
