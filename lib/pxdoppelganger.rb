@@ -1,6 +1,5 @@
 require 'rubygems'
 require 'controller/analyzer'
-require 'rspec'
 
 module PXDoppelganger
 
